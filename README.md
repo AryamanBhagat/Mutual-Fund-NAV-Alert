@@ -2,7 +2,7 @@
 This is a simple python script that you can setup to run at 11AM everyday, it will send an alert through email if the NAVs of mutual funds fall below a certain amount
 
 # How it works
-Everyday at 10AM www.amfindia.com generates a list of latest Net Asset Values of various mutual funds.
+Everyday at 10AM www.amfiindia.com generates a list of latest Net Asset Values of various mutual funds.
 
 The python script will scrape all that data and see if any of the mutual funds have fallen below a certain threshold in the last few days.
 
